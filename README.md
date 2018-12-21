@@ -1,3 +1,2 @@
-# test_spark24_pandas_udf
-The one features of spark 2.4 is support of using pandas user define function (UDF)
 # In progress
+In order to learn how to setup and config hive-site.xml and develop spark application in scala that support ingesting to Hive.
